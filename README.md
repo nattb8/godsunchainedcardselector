@@ -3,6 +3,7 @@
 ## Overview
 - Coded using Android Studio Android Studio Arctic Fox | 2020.3.1 Patch 2
 - Tested on Google Pixel 5 Android version 11 only
+- There is a demo video and release APK ready to be installed in the `demo` folder
 
 ### Project structure
 - `data`: Manages data for the app e.g. network calls, contains the repository and API models
