@@ -1,9 +1,13 @@
 # Gods Unchained Card Selector
 
+## Technical Assessment
+
+Exercise described [here](https://gist.github.com/maarcosd/321d8a67cc5c038c5b914e4e999a1b98) but for mobile.
+
 ## Overview
 - Coded using Android Studio Android Studio Arctic Fox | 2020.3.1 Patch 2
 - Tested on Google Pixel 5 Android version 11 only
-- There is a demo video and release APK ready to be installed in the `demo` folder
+- There is a demo video and release APK ready to be installed in the `demo` foldere
 
 ### Project structure
 - `data`: Manages data for the app e.g. network calls, contains the repository and API models
